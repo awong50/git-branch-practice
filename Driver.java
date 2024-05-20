@@ -4,6 +4,6 @@ public class Driver {
     }
 
     public static int sumOf(int x, int y) {
-        return x - y;
+        return x + y;
     }
 }   
